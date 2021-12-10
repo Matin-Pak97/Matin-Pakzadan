@@ -1,5 +1,5 @@
 var images = ['shiraz-back-1.jpg', 'shiraz-back-2.jpg', 'shiraz-back-3.jpg'],
-    index = 0, // starting index
+    index = 1, // starting index
     maxImages = images.length - 1;
 const bckImg = $('#bckImg');
 

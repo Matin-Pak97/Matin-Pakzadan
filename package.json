@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "module": "commonjs",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0"
+  }
+}
